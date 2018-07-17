@@ -1,0 +1,50 @@
+.container {
+    text-align: right;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #423e3d;
+    min-height: 130px;
+ }
+ 
+ .topnav a {
+    float: left;
+    color: rgb(233, 232, 229);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+ }
+ 
+ .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.header h1 {
+    overflow: hidden;
+    background-color: rgb(131, 10, 10);
+    min-height: 100px;
+ 
+ }
+
+}
+.column-left { 
+    width: 33%; 
+    background-color:lightslategray;
+    display: inline;
+
+}
+.column-right { 
+    width: 33%; 
+    background-color:lightslategray;
+    display: inline;
+
+}
+
+.column-center { 
+    width: 33%; 
+    background-color:lightslategray;
+    display: inline;
+}
+
